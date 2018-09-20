@@ -1,2 +1,2 @@
 # hello-world
-My name is Shannon.
+Hi! My name is Shannon.
